@@ -4,11 +4,11 @@ Checks unused classes, fields, properties, methods, functions, variables, extens
 
 To execute the command, run:
 ```sh
-$ dcl check-unused-code lib # or dcl uc lib
+$ dart run dart_code_linter:metrics check-unused-code lib
 ```
 Full command description:
 ```sh
-Usage: dcl check-unused-code [arguments] <directories>
+Usage: metrics check-unused-code [arguments] <directories>
 -h, --help                                       Print this usage information.
 
 
