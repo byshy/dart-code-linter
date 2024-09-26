@@ -4,11 +4,11 @@ Checks unnecessary nullable parameters in functions, methods, constructors. Remo
 
 To execute the command, run:
 ```sh
-$ dcl check-unnecessary-nullable lib # or dcl un lib
+$ dart run dart_code_linter:metrics check-unnecessary-nullable lib
 ```
 Full command description:
 ```sh
-Usage: dcl check-unnecessary-nullable [arguments] <directories>
+Usage: metrics check-unnecessary-nullable [arguments] <directories>
 -h, --help                                       Print this usage information.
 
 

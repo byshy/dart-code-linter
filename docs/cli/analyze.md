@@ -5,7 +5,7 @@ Reports lint rules violations.
 To execute the command, run:
 
 ```sh
-$ dcl analyze lib # or dcl a lib
+$ dart run dart_code_linter:metrics analyze lib
 ```
 info
 

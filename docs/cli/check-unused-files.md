@@ -4,11 +4,11 @@ Checks unused `*.dart` files.
 
 To execute the command, run:
 ```sh
-$ linter check-unused-files lib # or linter uf lib
+$ dart run dart_code_linter:metrics check-unused-files
 ```
 Full command description:
 ```sh
-Usage: linter check-unused-files [arguments...] <directories>
+Usage: metrics check-unused-files [arguments...] <directories>
 -h, --help                                       Print this usage information.
 
 
