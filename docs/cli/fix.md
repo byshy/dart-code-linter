@@ -1,6 +1,8 @@
-# Analyze
+# Fix
 
-Reports lint rules violations.
+added in: 1.2.0 <span style={{color: 'green'}}>style</span>
+
+Fixes violations for lint rules that have a replacement.
 
 To execute the command, run:
 
